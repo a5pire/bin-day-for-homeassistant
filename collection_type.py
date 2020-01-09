@@ -20,7 +20,7 @@ def collection_type():
         # odd weeks(1 & 3) are for recycling (yellow lid bin)
         bin_type = 'Recycling'
 
-    print(bin_type)
+    print(f'Landfill & {bin_type}')
 
 
 if __name__ == '__main__':
