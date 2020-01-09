@@ -50,5 +50,3 @@ This project is a demonstration of my ability to use:
 -   [Github](https://github.com/a5pire)
 
 ---
-
-[Back to the top](#Bin Collection for Home Assistant)
